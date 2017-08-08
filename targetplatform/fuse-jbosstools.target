@@ -18,13 +18,13 @@
 <unit id="org.jboss.tools.usage.feature.feature.group" version="2.2.100.v20170505-1845"/>
 <unit id="org.jboss.tools.common.ui.feature.feature.group" version="3.9.0.v20170316-1838"/>
 <unit id="org.jboss.tools.common.text.ext.feature.feature.group" version="3.9.0.v20170519-2103"/>
-<repository location="http://download.jboss.org/jbosstools/oxygen/staging/updates/"/>
+<repository location="http://tooling.fuse-qe.eng.rdu2.redhat.com/p2/download.jboss.org/jbosstools/oxygen/staging/updates/"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="false" includeMode="slicer" includeSource="true" type="InstallableUnit">
 <unit id="org.jboss.tools.jmx.test.feature.feature.group" version="1.10.0.v20170517-1358"/>
 <unit id="org.jboss.ide.eclipse.as.test.feature.feature.group" version="3.3.0.v20170628-2210"/>
 <unit id="org.jboss.tools.test.feature.feature.group" version="3.7.100.v20170529-1436"/>
-<repository location="http://download.jboss.org/jbosstools/oxygen/staging/updates/coretests/4.5.0.AM2/"/>
+<repository location="http://tooling.fuse-qe.eng.rdu2.redhat.com/p2/download.jboss.org/jbosstools/oxygen/staging/updates/coretests/4.5.0.Final/"/>
 </location>
 </locations>
 <targetJRE path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
