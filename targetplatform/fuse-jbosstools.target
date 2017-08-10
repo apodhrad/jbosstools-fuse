@@ -33,6 +33,7 @@
 <unit id="org.eclipse.reddeer.eclipse.feature.source.feature.group"/>
 <unit id="org.eclipse.reddeer.graphiti.feature.feature.group"/>
 <unit id="org.eclipse.reddeer.graphiti.feature.source.feature.group"/>
+<unit id="org.eclipse.reddeer.ui.feature.feature.group"/>
 <repository location="http://download.eclipse.org/reddeer/snapshots/"/>
 </location>
 </locations>
